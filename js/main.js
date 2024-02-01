@@ -25,6 +25,8 @@ function check_even_odd(num){
 
 check_even_odd(num)
 
+//////////////////////////////////////////
+
 let a = +prompt('Enter the first number')
 let b = +prompt('Enter the second number')
 
@@ -46,6 +48,8 @@ function check_more_les(a, b){
 }
 
 check_more_les(a,b)
+
+///////////////////////////////////////
 
 let login = prompt('Welcome, enter your login to verify(admin, user or guest)')
 
