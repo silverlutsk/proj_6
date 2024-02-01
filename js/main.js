@@ -60,8 +60,8 @@ function check_login(login){
     }
 
     else if (login == 'user'){
-        console.log('Hello, user! Welcome to the website.\nStandard services on the site are available to you.\n Changing the color theme.\nInformation search.\nInviting friends.');
-        alert('Hello, user! Welcome to he website.\nStandard services on the site are available to you.\n Changing the color theme.\nInformation search.\nInviting friends.')
+        console.log('Hello, user! Welcome to the website.\nStandard services on the site are available to you.\nChanging the color theme.\nInformation search.\nInviting friends.');
+        alert('Hello, user! Welcome to he website.\nStandard services on the site are available to you.\nChanging the color theme.\nInformation search.\nInviting friends.')
     }
     else if (login == 'guest'){
         console.log('Hello, guest! Welcome to the website.\nPlease, log in or register on the website!');
